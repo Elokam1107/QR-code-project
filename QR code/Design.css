@@ -2,6 +2,35 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 
-div {
-    background-color: white;
+.surround {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    margin: auto;
+  width: 400px;
+  padding: 10px;
+  margin-top: 100px ;
+}
+
+h1 {
+    font-family: Outfit;
+    font-weight: 400, 700;
+    font-size: 20px;
+    
+}
+
+h3 {
+    font-family: Outfit;
+    font-weight: 400, 700;
+    font-size: 15px;
+    color: hsl(212, 45%, 89%);
+}
+
+#qr-code {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.inside {
+    padding: 5px;
 }
