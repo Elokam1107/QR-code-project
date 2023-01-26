@@ -6,28 +6,30 @@ body {
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
     margin: auto;
-  width: 400px;
-  padding: 10px;
-  margin-top: 100px ;
+    width: 260px;
+    padding: 10px;
+    margin-top: 80px ;
 }
 
 h1 {
     font-family: Outfit;
     font-weight: 400, 700;
     font-size: 20px;
+    text-align: center;
     
 }
 
 h3 {
-    font-family: Outfit;
+    font-family: Outfit-Thin;
     font-weight: 400, 700;
     font-size: 15px;
     color: hsl(212, 45%, 89%);
+    text-align: center;
 }
 
 #qr-code {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     border-radius: 10px;
 }
 
